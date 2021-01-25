@@ -91,7 +91,7 @@ And if you're sharing this with your friends, don't forget to give me credit lol
 <img src="https://i.imgur.com/CHqrLeU.png">
 
 ### Note
-1. Server will only work as long as the cloud shell terminal is opened , i will give a fix for this.
+1. Server will only work as long as the cloud shell terminal is opened , (install chrome on rdp and open the shell terminal there to fix).
 2. Server will only work 50 hours/week, so get 2-3 google accounts if you want to always use it.
 3. If you restarted the server, you need to do all the steps again.
 4. Contact https://t.me/patheticprogrammers for help.
