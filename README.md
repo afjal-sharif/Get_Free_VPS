@@ -92,6 +92,9 @@ And if you're sharing this with your friends, don't forget to give me credit lol
 
 ### Note
 1. Server will only work as long as the cloud shell terminal is opened , (install chrome on rdp and open the shell terminal there to fix).
+      ## Install Chrome 
+                        wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+                        sudo apt install ./google-chrome-stable_current_amd64.deb
 2. Server will only work 50 hours/week, so get 2-3 google accounts if you want to always use it.
 3. If you restarted the server, you need to do all the steps again.
 4. Contact https://t.me/patheticprogrammers for help.
